@@ -1,0 +1,10 @@
+ID	Email	User Type	Password
+U0001	a	Admin	a
+U0002	albert@apu.edu.my	Tutor	123456789
+U0003	ahmad@apu.edu.my	Tutor	123456789
+U0004	steve@apu.edu.my	Tutor	123456789
+U0005	berry@apu.edu.my	Tutor	123456789
+U0006	allen@apu.edu.my	Tutor	123456789
+U0007	student1@gmail.com	Student	123456789
+U0008	student2@gmail.com	Student	123456789
+U0009	student3@gmail.com	Student	123456789

@@ -1,0 +1,6 @@
+ID	Tutor ID	Title	Day	Start Time	Location
+PYP101	T001	Python Programming	Saturday	9.00AM	C-01-01
+JAV102	T002	Java Programming	Sunday	9.00AM	C-01-02
+CPL103	T003	C Programming	Saturday	2.00PM	C-01-03
+WEB104	T004	Web Development 	Sunday	2.00PM	C-01-04
+CSP105	T005	C Sharp Programming	Monday	7.00PM	C-01-05
